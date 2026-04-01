@@ -1,4 +1,3 @@
-![thumbnail-Desafio Java](https://user-images.githubusercontent.com/66698429/218160231-11c3a759-711e-484d-a856-b5977b065ec6.png)
 
 
 # Desafio

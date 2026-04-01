@@ -3,8 +3,6 @@
 # Desafio
 
 
-Vamos implementar uma aplicação para controlar nossa conta bancária, seja ela virtual ou não. 
-
 ## 🔨 Objetivos do projeto
 
 - Criar um cabeçalho inicial com os dados do cliente (Nome, Tipo da Conta e Saldo)
@@ -17,12 +15,3 @@ e *deposita* (ou *recebeTransferencia*, *recebePix*) para representar a **entrad
 - Usaremos a classe Scanner para fazer a leitura da opção do usuário.
 <p></p>
 
-Exemplo/Sugestão de tela para o menu: 
-
-<p></p>
-
-![image](https://user-images.githubusercontent.com/66698429/218162389-1b68a232-e91b-44ba-b7b3-317920d69ee1.png)
-
-
-
-Bom desafio!

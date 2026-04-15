@@ -1,0 +1,20 @@
+package Ex02;
+
+public class Livro extends Produto {
+    private String autor;
+//construtor vazio
+    public Livro() {}
+//construtor completo
+    public Livro(String nome, double preco, String autor) {
+        super(nome, preco);
+        this.autor = autor;
+    }
+
+    public String getAutor() { return autor; }
+    public void setAutor(String autor) { this.autor = autor; }
+
+    @Override
+    public String toString() {
+        return "Livro [" + super.toString() + ", Autor: " + autor + "]";
+    }
+}
